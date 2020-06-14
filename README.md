@@ -15,15 +15,15 @@ During my Winter Internship 2018 with DELL, I got an opportunity to work on an a
 - Observing modifications over the time to take better business decisions; 
 - Providing an ease of access and data at one place for considerations and evaluation.
 
-## Methodology
-
-This Automation tool is a Java based Windows Desktop Application built using JavaFX and FXML technologies on the Eclipse IDE. Microsoft Excel is being used as an Input source of data for the tool. In the organisations, resource data is contained in the Excel sheets which is being inserted in the tool and then based on the provided data, this tool generates different consolidated views for the review by the business team. The generated output can also be exported and stored in excel documents.
-
 ## Demonstration
 
 ![](/Windows%20App%20|%20Project%20Details/DS-Manager.gif)
 
 ###### This tool generates mutiple views and has many other complex functionalities integrated. Due to company privacy and NDA, just showcasing the overview look of the working tool.
+
+## Methodology
+
+This Automation tool is a Java based Windows Desktop Application built using JavaFX and FXML technologies on the Eclipse IDE. Microsoft Excel is being used as an Input source of data for the tool. In the organisations, resource data is contained in the Excel sheets which is being inserted in the tool and then based on the provided data, this tool generates different consolidated views for the review by the business team. The generated output can also be exported and stored in excel documents.
 
 ## Technology Stack
 - Languages	|	JavaFX and FXML
